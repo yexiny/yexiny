@@ -48,12 +48,19 @@ October – November 2025
 
 ## Technical Skills
 
-| Area | Tools & Methods |
-| --- | --- |
-| Programming & numerical computing | Python, R, Julia, MATLAB |
-| Analytics & visualisation | Power BI, Excel, data visualisation |
-| Modelling & optimisation | Bayesian modelling, regression, stochastic simulation, heuristic optimisation |
-| AI & 3D workflows | ComfyUI, Blender |
+### Languages & Numerical Computing
+
+| Python | R | Julia | MATLAB |
+| :---: | :---: | :---: | :---: |
+| <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="48" height="48" alt="Python logo" /></a> | <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/r/r-original.svg" width="48" height="48" alt="R logo" /></a> | <a href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/julia/julia-original.svg" width="48" height="48" alt="Julia logo" /></a> | <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB logo" /></a> |
+
+### Analytics, AI & Design Software
+
+| Power BI | Excel | ComfyUI | Blender |
+| :---: | :---: | :---: | :---: |
+| <a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="https://img.icons8.com/color/48/power-bi-2021.png" width="48" height="48" alt="Power BI logo" /></a> | <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/microsoft-excel.svg" width="48" height="48" alt="Excel logo" /></a> | <a href="https://www.comfy.org/"><img src="https://raw.githubusercontent.com/Comfy-Org/ComfyUI_frontend/main/public/assets/images/comfy-logo-single.svg" width="48" height="48" alt="ComfyUI logo" /></a> | <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/blender/blender-original.svg" width="48" height="48" alt="Blender logo" /></a> |
+
+**Methods:** Bayesian modelling, regression, stochastic simulation, heuristic optimisation, and data visualisation.
 
 ## Education
 
